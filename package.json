@@ -1,0 +1,23 @@
+{
+  "name": "docjs-theme-adapt",
+  "version": "1.0.0",
+  "description": "Adapt theme for documentation.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylortom/docjs-theme-adapt.git"
+  },
+  "keywords": [
+    "documentation.js",
+    "javascript"
+  ],
+  "author": "Thomas Taylor <hello@tomtaylor.name> (http://tomtaylor.name/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taylortom/docjs-theme-adapt/issues"
+  },
+  "homepage": "https://github.com/taylortom/docjs-theme-adapt#readme"
+}
